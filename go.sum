@@ -1,0 +1,4 @@
+github.com/mtraver/base91 v1.0.0 h1:vkIW96Xbw7QH1fbSV5VwXqv+xVuWWZji4O4ty8yYk28=
+github.com/mtraver/base91 v1.0.0/go.mod h1:Igwspit339nKvBhXGqrNOaNI8qGvh+Y4P76q5g4qH2Y=
+github.com/raiiga/flagg v0.0.0-20250227084740-69a3400dc879 h1:H4mjVphDSfmx2vcB14svYiZeOC6DQv52OJVRkgG9M44=
+github.com/raiiga/flagg v0.0.0-20250227084740-69a3400dc879/go.mod h1:/k4MG6skft5pVOwP0tmnOyN/bw0jLKzDhaxBEVYM8L0=
