@@ -1,4 +1,8 @@
+github.com/akamensky/base58 v0.0.0-20210829145138-ce8bf8802e8f h1:z8MkSJCUyTmW5YQlxsMLBlwA7GmjxC7L4ooicxqnhz8=
+github.com/akamensky/base58 v0.0.0-20210829145138-ce8bf8802e8f/go.mod h1:UdUwYgAXBiL+kLfcqxoQJYkHA/vl937/PbFhZM34aZs=
 github.com/mtraver/base91 v1.0.0 h1:vkIW96Xbw7QH1fbSV5VwXqv+xVuWWZji4O4ty8yYk28=
 github.com/mtraver/base91 v1.0.0/go.mod h1:Igwspit339nKvBhXGqrNOaNI8qGvh+Y4P76q5g4qH2Y=
 github.com/raiiga/flagg v0.0.0-20250227084740-69a3400dc879 h1:H4mjVphDSfmx2vcB14svYiZeOC6DQv52OJVRkgG9M44=
 github.com/raiiga/flagg v0.0.0-20250227084740-69a3400dc879/go.mod h1:/k4MG6skft5pVOwP0tmnOyN/bw0jLKzDhaxBEVYM8L0=
+github.com/raiiga/flagg v0.0.0-20250327142207-0cdb5f3fe1d6 h1:FlS3S9MOYeF0mcypSCvssfi2ekTDXXcfrq2aEahfFYM=
+github.com/raiiga/flagg v0.0.0-20250327142207-0cdb5f3fe1d6/go.mod h1:/k4MG6skft5pVOwP0tmnOyN/bw0jLKzDhaxBEVYM8L0=
